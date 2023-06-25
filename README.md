@@ -7,6 +7,9 @@
 
 Student: `Moien Rangzan`
 
+
+[Data in Colab](https://drive.google.com/drive/folders/1SNANpnL-M4zCxAFrisNUa09s_15C-7GT?usp=sharing)
+
 ---
 
 ```python
