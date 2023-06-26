@@ -21,7 +21,7 @@ Student: `Moien Rangzan`
 
 
 ## final resault
-the stretching here is not good but when we open the final data in arcgis with SD stretch we get this:
+The final result (with Histogram Stretching):
 
 ![image.png](Coolbaugh_files/final_res.png)
 
