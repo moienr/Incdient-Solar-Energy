@@ -1,6 +1,6 @@
 <a href="https://colab.research.google.com/github/moienr/Incdient-Solar-Energy/blob/main/Coolbaugh.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-# Incdient Solar Energy over time - Coolbaugh Algorithm - (Shaded Relief)
+# Daily Incident Solar Energy Modeling - Coolbaugh Algorithm - (Shaded Relief)
 **Theraml RS class of University of Tehran** - `Dr. Majid Kiavarz`
 
 This is an Unofficial Python Implemntaion based on:
